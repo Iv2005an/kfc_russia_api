@@ -6,10 +6,8 @@ repository: https://github.com/Iv2005an/kfc_russia_api
 environment:
   sdk: ^3.2.4
 
-# Add regular dependencies here.
 dependencies:
   dio: ^5.4.0
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^3.0.0
